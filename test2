@@ -1,0 +1,41 @@
+<item turbo="true">
+  <title>Заголовок страницы</title>
+  <link>http://www.burannsk.ru</link>
+  <turbo:content>
+    <![CDATA[
+      <header>
+        <h1>Тепло в каждый дом «Здоровье прежде всего.»</h1>
+        <h2>#Качествонавысоте #Гарантияпятьлет #Энергоэффективность</h2>
+        <figure>
+          <img src="http://fuckingnews.ru/wp-content/uploads/2015/08/4b146048f45a15d0858c1df77e0ab8e3-600x330.jpg">
+        </figure>
+        <menu>
+          <a href="http://example.com/page1.html">Пункт меню 1</a>
+          <a href="http://example.com/page2.html">Пункт меню 2</a>
+        </menu>
+      </header>
+      <p>Как сохранить здоровый климат в доме? Забыть про жару или холод навсегда!</p>
+      <p>Приходите к нам в магазин. Каталог товаров <a href="http://www.burannsk.ru/">на нашем сайте</a>.</p>
+      <h2>Меню</h2>
+      <figure>
+        <img src="https://rdstroy.ru/upload/medialibrary/56d/RDstroy_electro.jpg">
+        <figcaption>Только энергоэффективное оборудование</figcaption>
+      </figure>
+      <p>В нашем магазине всегда вас встретит дружелюбный коллектив с чаем и мёдом!</p>
+      <p>Убедитесь в этом сами.</p>
+      <button formaction="tel:+7(913)987-55-32"
+              data-background-color="#5B97B0"
+              data-color="white"
+              data-primary="true">Заказать обратный звонок</button>
+      <div data-block="widget-feedback" data-stick="false">
+        <div data-block="chat" data-type="whatsapp" data-url="http://www.burannsk.ru/contacts"></div>
+        <div data-block="chat" data-type="telegram" data-url="http://www.burannsk.ru/contacts"></div>
+        <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/buranrussia"></div>
+        <div data-block="chat" data-type="facebook" data-url="https://www.instagram.com/buran_siberia/"></div>
+        <div data-block="chat" data-type="viber" data-url="https://www.instagram.com/buran_siberia/"></div>
+      </div>
+      <p>Города присутствия: <a href="http://www.burannsk.ru/contacts">Новосибирск Барнаул Бийск Кемерово Томск Санкт-Петербург.</a></p>
+      <p>Победители Всероссийского конкурса по энергосбережению  <img src="https://st28.stblizko.ru/images/licenses/001/736/777_original.jpg"</p>
+    ]]>
+    </turbo:content>
+</item>
